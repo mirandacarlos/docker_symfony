@@ -3,4 +3,4 @@ compose constituido por los siguientes servicios optimizados para trabajar con s
 nginx 
 php-fpm
 
-El servicio php-fpm tiene instalados composer y symfony cli
+El servicio php-fpm tiene instalados composer, symfony cli y xdebug (puerto 9003)
